@@ -1,6 +1,6 @@
-# Conhecimentos FlexBox	
+# Conhecimentos
 
-## Arquivos criado com HTML e CSS
+## Arquivos
 
 ### João Mendes
 
