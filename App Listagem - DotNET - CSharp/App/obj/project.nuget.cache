@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PmXtmu50eUpUhwHSVcIYu0tqXfGUWUH1DIQFdxHewY3W6cjJv4QymkKaUc1aIiiWUy1RgPvS08JU4FwWuvMCMQ==",
+  "dgSpecHash": "CSigzaov4ii79V56tFdsszMeNiSlUIF+7lsIuwDYeOcS1il/A3Yh4fur4IMSDKJEKtKHVIgbPzIzQw9w+eC+KA==",
   "success": true,
-  "projectFilePath": "C:\\PraticaDotNet\\App\\App.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Raui Dantas\\Documents\\Projetos-Portifolio\\App Listagem - DotNET - CSharp\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raui Dantas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Raui Dantas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Raui Dantas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Raui Dantas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

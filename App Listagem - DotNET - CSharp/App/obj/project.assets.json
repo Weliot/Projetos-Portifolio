@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\neto_\\.nuget\\packages\\": {}
+    "C:\\Users\\Raui Dantas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PraticaDotNet\\App\\App.csproj",
+      "projectUniqueName": "C:\\Users\\Raui Dantas\\Documents\\Projetos-Portifolio\\App Listagem - DotNET - CSharp\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\PraticaDotNet\\App\\App.csproj",
-      "packagesPath": "C:\\Users\\neto_\\.nuget\\packages\\",
-      "outputPath": "C:\\PraticaDotNet\\App\\obj\\",
+      "projectPath": "C:\\Users\\Raui Dantas\\Documents\\Projetos-Portifolio\\App Listagem - DotNET - CSharp\\App\\App.csproj",
+      "packagesPath": "C:\\Users\\Raui Dantas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Raui Dantas\\Documents\\Projetos-Portifolio\\App Listagem - DotNET - CSharp\\App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\neto_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Raui Dantas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,16 +49,35 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
