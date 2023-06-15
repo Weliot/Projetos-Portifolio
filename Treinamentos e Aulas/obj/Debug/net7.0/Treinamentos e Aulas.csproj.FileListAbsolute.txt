@@ -1,0 +1,15 @@
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\bin\Debug\net7.0\Treinamentos e Aulas.exe
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\bin\Debug\net7.0\Treinamentos e Aulas.deps.json
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\bin\Debug\net7.0\Treinamentos e Aulas.runtimeconfig.json
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\bin\Debug\net7.0\Treinamentos e Aulas.dll
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\bin\Debug\net7.0\Treinamentos e Aulas.pdb
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\obj\Debug\net7.0\Treinamentos e Aulas.csproj.AssemblyReference.cache
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\obj\Debug\net7.0\Treinamentos e Aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\obj\Debug\net7.0\Treinamentos e Aulas.AssemblyInfoInputs.cache
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\obj\Debug\net7.0\Treinamentos e Aulas.AssemblyInfo.cs
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\obj\Debug\net7.0\Treinamentos e Aulas.csproj.CoreCompileInputs.cache
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\obj\Debug\net7.0\Treinamentos e Aulas.dll
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\obj\Debug\net7.0\refint\Treinamentos e Aulas.dll
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\obj\Debug\net7.0\Treinamentos e Aulas.pdb
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\obj\Debug\net7.0\Treinamentos e Aulas.genruntimeconfig.cache
+C:\Users\mende\Documents\Repositorios\Projetos-Portifolio\Treinamentos e Aulas\obj\Debug\net7.0\ref\Treinamentos e Aulas.dll
