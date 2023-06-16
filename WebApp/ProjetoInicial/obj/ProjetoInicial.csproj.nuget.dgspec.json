@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mende\\Documents\\Repositorios\\Projetos-Portifolio\\Treinamentos e Aulas\\Treinamentos e Aulas.csproj": {}
+    "C:\\Users\\mende\\documents\\repositorios\\Projetos-Portifolio\\WebApp\\ProjetoInicial\\ProjetoInicial.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mende\\Documents\\Repositorios\\Projetos-Portifolio\\Treinamentos e Aulas\\Treinamentos e Aulas.csproj": {
+    "C:\\Users\\mende\\documents\\repositorios\\Projetos-Portifolio\\WebApp\\ProjetoInicial\\ProjetoInicial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mende\\Documents\\Repositorios\\Projetos-Portifolio\\Treinamentos e Aulas\\Treinamentos e Aulas.csproj",
-        "projectName": "Treinamentos e Aulas",
-        "projectPath": "c:\\Users\\mende\\Documents\\Repositorios\\Projetos-Portifolio\\Treinamentos e Aulas\\Treinamentos e Aulas.csproj",
+        "projectUniqueName": "C:\\Users\\mende\\documents\\repositorios\\Projetos-Portifolio\\WebApp\\ProjetoInicial\\ProjetoInicial.csproj",
+        "projectName": "ProjetoInicial",
+        "projectPath": "C:\\Users\\mende\\documents\\repositorios\\Projetos-Portifolio\\WebApp\\ProjetoInicial\\ProjetoInicial.csproj",
         "packagesPath": "C:\\Users\\mende\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mende\\Documents\\Repositorios\\Projetos-Portifolio\\Treinamentos e Aulas\\obj\\",
+        "outputPath": "C:\\Users\\mende\\documents\\repositorios\\Projetos-Portifolio\\WebApp\\ProjetoInicial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mende\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -20,6 +20,7 @@
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,6 +50,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
