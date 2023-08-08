@@ -1,7 +1,7 @@
 import xlrd
-from programa.modelos import Variavel
+from modelos import Variavel
 
-planilha = xlrd.open_workbook("dados/dicionario_pessoas.xls")
+planilha = xlrd.open_workbook(r"programa\dados\dicionario_pessoas.xls")
 primeira_aba = planilha.sheet_by_index(0)
 # print("Nome:", primeira_aba.name)
 # print("Num linhas:", primeira_aba.nrows)
